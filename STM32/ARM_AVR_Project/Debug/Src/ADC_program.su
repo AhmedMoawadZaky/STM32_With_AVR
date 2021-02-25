@@ -1,0 +1,6 @@
+ADC_program.c:15:7:ADC_voidInit	4	static
+ADC_program.c:43:9:ADC_voidEnable	4	static
+ADC_program.c:46:9:ADC_voidDisable	4	static
+ADC_program.c:50:9:ADC_voidMode	4	static
+ADC_program.c:53:9:ADC_voidResetCalAndCal	4	static
+ADC_program.c:64:5:Adc_voidReadADC	16	static

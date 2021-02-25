@@ -1,0 +1,19 @@
+Src/main.o: ../Src/main.c ../Inc/STD_TYPES.h ../Inc/BIT_MATH.h \
+ ../Inc/RCC_interface.h ../Inc/GPIO_interface.h ../Inc/NVIC_Interface.h \
+ ../Inc/SCB_Interface.h ../Inc/ADC_Interface.h ../Inc/USART_Interface.h
+
+../Inc/STD_TYPES.h:
+
+../Inc/BIT_MATH.h:
+
+../Inc/RCC_interface.h:
+
+../Inc/GPIO_interface.h:
+
+../Inc/NVIC_Interface.h:
+
+../Inc/SCB_Interface.h:
+
+../Inc/ADC_Interface.h:
+
+../Inc/USART_Interface.h:
